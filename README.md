@@ -1,5 +1,9 @@
 # test.v2
 
+### Динамический макет сайта на vue.js
+
+Дает возможность динамически менять макет страниц
+
 ## Project setup
 ```
 npm install
@@ -22,7 +26,3 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
-
-### Динамический макет сайта на vue.js
-
-Дает возможность динамически менять макет страниц
